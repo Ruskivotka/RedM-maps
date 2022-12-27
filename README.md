@@ -9,7 +9,7 @@ Made by: Ruskivotka#4608
 
 #################################################################################
 
-Feel free to use them on your server. DO NOT try to sell them for other people. 
+Feel free to use them on your server. DO NOT try to sell them to other people. 
 
 #################################################################################
 
