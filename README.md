@@ -21,11 +21,15 @@ How to know what is inside the ymap files?
 
 How to install them to your server?
 
-Ymaps:
+Ymap:
 -copy ruski_streaming file to your server files
 -ensure ruski_streaming in server.cfg
 -restart your server
 
-Xml maps:
+Xml:
+-located inside [maps] folder
+-copy them to your objectloader 
+-ensure [maps]
+-restart your server
 
 #################################################################################
