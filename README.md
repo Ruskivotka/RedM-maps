@@ -13,6 +13,12 @@ Feel free to use them on your server. DO NOT try to sell them for other people.
 
 #################################################################################
 
+How to know what is inside the ymap files?
+
+-copy coordinates from props inside ymap and you should see what have changed in your map
+
+#################################################################################
+
 How to install them to your server?
 
 -copy ruski_streaming file to your server files
@@ -22,4 +28,3 @@ How to install them to your server?
 -restart your server
 
 #################################################################################
-
