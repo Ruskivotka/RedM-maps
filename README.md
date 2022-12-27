@@ -22,6 +22,7 @@ How to know what is inside the ymap files?
 How to install them to your server?
 
 Ymap:
+-located inside ruski_streaming folder
 -copy ruski_streaming file to your server files
 -ensure ruski_streaming in server.cfg
 -restart your server
